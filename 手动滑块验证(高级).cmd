@@ -1,6 +1,6 @@
 @echo off
 echo Mirai 手动处理滑块验证（添加mirai.slider.captcha.supported）
-echo 溯洄w4123 20210314
+echo 溯洄w4123 20210315
 cd %~dp0
 del /Q .\plugins\mirai-login-solver-selenium* >nul 2>nul
 set JAVA_BINARY=jre\bin\java
